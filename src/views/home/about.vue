@@ -6,17 +6,15 @@
       <div class="sobre-text">
         <h1>Quem somos?</h1>
         <p>
-          A EIFCHAR é uma equipe de eficiência energética criada no final de
-          2018 por alunos do Instituto Federal Sul-rio-grandense Campus
-          Charqueadas, composta em sua maioria por alunos do Ensino Médio Técnico.
+          O FOR.G.E. iniciou, pois, nós alunos do IFSUL câmpus Charqueadas percebemos que
+          podemos render muito mais estudando em grupo pois estaremos compartilhando
+          conhecimentos e dificuldades, nós também percebemos que um dos grandes problemas
+          para não termos tantos grupos de estudos é a comunicação entre os alunos, e isso faz
+          com que ocorra poucos grupos de estudos, e também os poucos que ocorrem são de
+          pessoas da mesma sala e série, e isso pode ser um problema pois não tem ninguém que
+          já tenha passado por isso antes, já que todos estão no mesmo nível.
         </p>
         <br/>
-        <p >
-          Participamos pela primeira vez da Shell Eco-marathon em 2019 com o
-          protótipo denominado Eletro 3. Buscamos desenvolver tecnologias
-          sustentáveis e com alta  eficiência energética na construção
-          de veículos super econômicos.
-        </p>
       </div>
     </div>
 </template>
@@ -38,6 +36,7 @@ export default {
   .sobre-container{
     display: flex;
     margin-top: 60px;
+    margin-bottom: 60px;
   }
 
   .sobre-img{

@@ -1,8 +1,8 @@
 <template>
   <div id="navbarId">
     <Slide>
-      <a href="/">
-        <span>Link 1</span>
+      <a href="/login">
+        <span>login</span>
       </a>
       <a href="/">
         <span>Link 2</span>
@@ -15,8 +15,8 @@
     <div class="navbar">
       <ul class="list">
         <li>
-          <a href="/">
-            Link 1
+          <a href="/login">
+            login
           </a>
         </li>
         <li>

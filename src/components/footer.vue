@@ -6,29 +6,27 @@
         <map-pin-icon size="1.5x" ></map-pin-icon> <p>R. Gen. Balbão, 81 - Centro,<br class="footer-br"> Charqueadas - RS, 96745-000</p>
         </div>
         <div class="footer-infos">
-          <mail-icon size="1.5x" ></mail-icon><p> eifchar@acad.charqueadas.ifsul.edu.br</p>
+          <mail-icon size="1.5x" ></mail-icon><p> forge@acad.charqueadas.ifsul.edu.br</p>
         </div>
         <div class="footer-infos">
-          <phone-icon size="1.5x" ></phone-icon><p> +55 (51) 99715-8077</p>
+          <phone-icon size="1.5x" ></phone-icon><p> +55 (51) 99402-7515</p>
         </div>
       </div>
       <div class="footer-social">
         <p>Redes Sociais</p>
-        <div class="footer-icons">
+        <!-- <div class="footer-icons">
             <a href="https://www.instagram.com/eifchar/"><instagram-icon size="1.5x" class="footer-icon"></instagram-icon></a>
             <a href="https://github.com/EIFCHAR"><github-icon size="1.5x" class="footer-icon"></github-icon></a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
 </template>
 <script>
-import { GithubIcon, InstagramIcon, MapPinIcon, MailIcon, PhoneIcon } from 'vue-feather-icons'
+import { MapPinIcon, MailIcon, PhoneIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    GithubIcon,
-    InstagramIcon,
     MapPinIcon,
     MailIcon,
     PhoneIcon
